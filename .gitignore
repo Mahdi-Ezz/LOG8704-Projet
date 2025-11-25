@@ -1,0 +1,50 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+sysinfo.txt
+
+# Cache
+[Ll]ightmapSnapshot/
+*[Aa]sset[Ss]tore/
+*.unitypackage
+
+# Crash reports
+*.stacktrace
+
+# ===================== #
+# Visual Studio / VSCode #
+# ===================== #
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# ==================== #
+# OS / Misc generated  #
+# ==================== #
+.DS_Store
+Thumbs.db
