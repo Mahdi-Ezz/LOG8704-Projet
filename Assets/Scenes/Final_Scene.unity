@@ -59466,7 +59466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UnlockShowchase
   trashObject: 15
-  unlockedPrefab: {fileID: 4208053459758431448, guid: bb8d4b5e939f2864badc644a0f7305ed, type: 3}
+  unlockedPrefab: {fileID: 6912745768020240683, guid: 50d8ec4c8fb90ec40921fd038ca2712e, type: 3}
 --- !u!1001 &1602567133
 PrefabInstance:
   m_ObjectHideFlags: 0
